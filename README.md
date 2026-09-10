@@ -10,7 +10,7 @@ My current interests lie at the intersection of mathematical foundations, machin
 
 ## Education
 
-**Central European University**, Vienna, Austria        2024-2028 (expected)
+**Central European University**
 
 B.A./B.Sc. in Data Science and Society
 
@@ -18,13 +18,9 @@ Major: Data Science
 
 Minor: Economics
 
-**University of Chicago**, Chicago, USA        2026-2027(expected)
-
+**University of Chicago**
 International Student-at-Large
 
-**Petru Rareș National College**, Piatra Neamț, Romania        2020-2024
-
-Higher Level Courses: Computer Science, Mathematics and Physics
 
 ## Technical Skills
 
