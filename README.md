@@ -26,5 +26,6 @@ International Student-at-Large
 ## Technical Skills
 
 **Programming:** Python, C++, SQL, Stata
+
 **Tools:** Git/GitHub, PsychoPy, Fusion360
 
