@@ -10,7 +10,7 @@ My current interests lie at the intersection of mathematical foundations, machin
 
 ## Education
 
-**Central European University**
+### **Central European University**
 
 B.A./B.Sc. in Data Science and Society
 
@@ -18,7 +18,8 @@ Major: Data Science
 
 Minor: Economics
 
-**University of Chicago**
+### **University of Chicago**
+
 International Student-at-Large
 
 
